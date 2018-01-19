@@ -1,4 +1,4 @@
-Bitpty Core integration/staging tree
+Bitpty Core integration/staging tree (forked from litecoin-project)
 =====================================
 
 [![Build Status](https://travis-ci.org/Bitpty-project/Bitpty.svg?branch=master)](https://travis-ci.org/Bitpty-project/Bitpty)
